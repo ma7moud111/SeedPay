@@ -7,6 +7,13 @@ It’s an upgraded and fully graphical version of the original console-based See
 
 ---
 
+## 🎥 Demo Video
+
+Watch the demo video to see **SeedPay** in action:  
+👉 [🔗 Click here to view the demo](https://drive.google.com/file/d/1tDL4L5k3g1A1GWs3a0eVybnmU9UFSWgp/view?usp=drive_link)  
+
+---
+
 ## 🚀 Features
 
 * **User Authentication**
