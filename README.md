@@ -1,6 +1,6 @@
 # 💳 SeedPay — Digital Wallet (Qt & C++)
 
-`/demo/seedpay.gif`
+![](demo/seedpay.gif)
 
 **SeedPay** is a modern desktop wallet application built with **C++ and Qt (QML)**.
 It’s an upgraded and fully graphical version of the original console-based SeedPay wallet, featuring a responsive UI, real-time transaction management, and smooth animations.
