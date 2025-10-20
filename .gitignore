@@ -1,0 +1,73 @@
+# --- Build directories ---
+build*/
+*/build*/
+code/build*/
+code/bin/
+code/lib/
+code/out/
+code/release/
+code/debug/
+dist/
+
+# --- Qt Creator and project user files ---
+code/*.pro.user
+code/*.pro.user.*
+code/*.qbs.user
+code/*.qbs.user.*
+code/CMakeLists.txt.user
+code/CMakeLists.txt.user.*
+code/*.qmlproject.user
+code/*.qmlproject.user.*
+code/*.creator.user
+code/*.creator.user.*
+
+# --- Generated / compiled files ---
+code/moc_*.cpp
+code/ui_*.h
+code/qrc_*.cpp
+code/*.moc
+code/*.o
+code/*.obj
+code/*.a
+code/*.lib
+code/*.dll
+code/*.so
+code/*.dylib
+code/*.exe
+code/*.app/
+code/*.qrc.dep
+
+# --- CMake / Make / Ninja ---
+code/CMakeCache.txt
+code/CMakeFiles/
+code/cmake_install.cmake
+code/Makefile
+code/*.ninja
+code/.ninja_deps
+code/.ninja_log
+code/compile_commands.json
+
+# --- IDEs and editors ---
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# --- Test / Coverage ---
+code/*.gcno
+code/*.gcda
+code/*.gcov
+coverage/
+test-results/
+
+# --- Logs / Temporary ---
+*.log
+*.tmp
+*.bak
+
+# --- Python (if any PySide or helper scripts) ---
+__pycache__/
+*.pyc
+
