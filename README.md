@@ -152,7 +152,7 @@ Ensure `resources.qrc` includes:
 
 ---
 
-## 🧑‍💻 Author
+## 🧑🏽‍💻 Author
 
 **Mahmoud Sayed**
 💼 Embedded Linux Engineer
